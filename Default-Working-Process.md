@@ -44,3 +44,10 @@ step 18. 피드백까지 완료된 경우 *CLAUDE.md* 파일의 해당 plan에 �
 4. 반복문을 사용할때는 불필요한 반복을 피하고 최적의 시간복잡도를 사용해라.
 5. 구현은 목적과 논리적 단위로 나누어 구현하고 중간 *commit*을 사용자에게 제안해라.
 6. 각 코드는 관심사를 분리하여 구현 설계하되, 최우선 순위는 *성능*이 되어야한다.
+
+
+---
+
+Author: [visionary153](https://github.com/visionary153)
+
+Copyright © 2026 visionary153. All rights reserved.

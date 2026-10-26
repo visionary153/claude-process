@@ -1,9 +1,9 @@
 새로운 프로젝트를 시작할 때 적용되는 업무 흐름
 
-[Defualt-Working-Process.md] 파일의 내용을 참조한다.
+[Default-Working-Process.md] 파일의 내용을 참조한다.
 
 # Process
-새로운 프로젝트 브레인 스토밍 -> 기획 -> [Default-Working-Process] -> 디자인 -> [Default-Working-Process]
+새로운 프로젝트 브레인 스토밍 -> [Default-Working-Process] -> 디자인 -> 적용
 
 ## 현재 적용 방식
 CLAUDE DESIGN에서 구현으로 넘어갈 때에, Image to Code가 정확하게 이루어지지 않기 때문에</br>

@@ -13,3 +13,7 @@ Claude Code로 작업할 때 따르는 업무 흐름을 정리해둔 저장소�
 - [New-Project-Working-Process.md](New-Project-Working-Process.md)<br>
   새 프로젝트를 시작할 때 쓰는 흐름입니다.
   Default Process를 포함하고 있습니다.
+
+- [skills/](skills/README.md)<br>
+  Claude Code 전역 스킬 설치 스크립트입니다.</br>
+  새 PC에서 `skills\setup-skills.ps1`을 실행하면 같은 스킬 구성이 설치됩니다.

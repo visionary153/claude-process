@@ -56,9 +56,3 @@ J. 치명적인 문제(빌드 불가, 핵심 기능 동작 불가, 데이터 손
 1. 깊은 중첩 대신 early return을 쓰고, 함수가 길어지면 의미 단위로 나눈다.</br>
 2. 과한 방어 코드(일어날 수 없는 경우의 검사, 에러를 삼키는 try/catch)를 넣지 않는다. 에러는 처리할 수 있는 곳에서 처리한다.</br>
 3. 타입 언어에서는 any, dynamic 등 타입을 포기하는 방식이나 강제 타입 변환으로 오류를 피하지 않는다.</br>
-
----
-
-Author: [visionary153](https://github.com/visionary153)
-
-Copyright © 2026 visionary153. All rights reserved.
